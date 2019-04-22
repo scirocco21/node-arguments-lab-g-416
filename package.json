@@ -21,6 +21,7 @@
     "chai": "3.5.0"
   },
   "dependencies": {
-    "generate-password": "^1.4.1"
+    "generate-password": "^1.4.1",
+    "mocha-multi": "^1.1.0"
   }
 }
